@@ -1,0 +1,11 @@
+body {
+    background-color: wheat;
+    margin: 50px 100px 50px 100px;
+}
+img {
+    width: 696px;
+    height: 420;
+}
+body a:active {
+    color: green;
+}
